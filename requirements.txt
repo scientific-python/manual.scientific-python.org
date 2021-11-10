@@ -3,3 +3,4 @@ jupytext
 jupyter
 myst-nb
 pydata-sphinx-theme
+sphinx-panels
