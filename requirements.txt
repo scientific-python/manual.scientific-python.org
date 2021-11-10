@@ -2,3 +2,4 @@ sphinx
 jupytext
 jupyter
 myst-nb
+pydata-sphinx-theme
