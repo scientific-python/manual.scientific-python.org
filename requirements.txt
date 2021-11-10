@@ -1,0 +1,4 @@
+sphinx
+jupytext
+jupyter
+myst-nb
