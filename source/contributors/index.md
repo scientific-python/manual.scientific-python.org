@@ -5,4 +5,6 @@ or wish to start contributing to, open source scientific Python projects.
 
 ```{toctree}
 :maxdepth: 1
+
+accessibility_howto
 ```
