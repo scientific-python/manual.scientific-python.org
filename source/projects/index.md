@@ -1,4 +1,4 @@
-# Community
+# Projects
 
 ```{toctree}
 :maxdepth: 1

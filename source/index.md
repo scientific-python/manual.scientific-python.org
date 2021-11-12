@@ -9,7 +9,7 @@ How-tos and best practices for the scientific Python ecosystem
 
 users/index
 contributors/index
-community/index
+projects/index
 ```
 
 ````{panels}
@@ -37,8 +37,8 @@ How-tos and best-practices for contributing to the ecosystem
 
 ---
 
-Community
-^^^^^^^^^
+For Projects
+^^^^^^^^^^^^
 
 Building, coordinating, and sustaining healthy communities
 ````
