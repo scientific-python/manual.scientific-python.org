@@ -55,6 +55,11 @@ html_theme_options = {
             "url": "https://scientific-python.org",
             "icon": "fas fa-home",
         },
+        {
+            "name": "GitHub",
+            "url": "https://github.com/scientific-python/manual.scientific-python.org",
+            "icon": "fab fa-github-square",
+        },
     ],
 }
 html_logo = "_static/logo.svg"
