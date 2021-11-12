@@ -1,13 +1,11 @@
-# Example site: scientific Python manual
+# Scientific Python Ecosystem Manual
 
-Sphinx site for scientific Python ecosystem how-to's and best practices 
-
-NOTE: the primary goal is to evaluate infrastructure - content is very much in
-a draft state!
+Documentation for the scientific Python ecosystem, including resources for
+*users*, *contributors*, and *scientific Python projects*.
 
 ## Setup
 
-Install the requirements: `pip install -r requirements.txt`
+Install the requirements: `python -m pip install -r requirements.txt`
 
 ## Building the site
 
