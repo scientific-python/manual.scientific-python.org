@@ -20,6 +20,14 @@ For Users
 
 Make the most of the scientific Python ecosystem
 
++++
+
+```{link-button} users/index
+:type: ref
+:text: User manual
+:classes: btn-outline-primary btn-block stretched-link
+```
+
 ---
 
 For Contributors
@@ -41,4 +49,12 @@ For Projects
 ^^^^^^^^^^^^
 
 Building, coordinating, and sustaining healthy communities
+
++++
+
+```{link-button} projects/index
+:type: ref
+:text: Project manual
+:classes: btn-outline-primary btn-block stretched-link
+```
 ````
